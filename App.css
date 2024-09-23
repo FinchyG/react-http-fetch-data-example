@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+#root {
+  width: 75%;
+  margin: auto;
+  padding-top: 3rem;
+}
